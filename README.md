@@ -5,7 +5,7 @@ This project involves analyzing a dataset related to depression, demographic fac
 Source of Data - https://www.kaggle.com/datasets/anthonytherrien/depression-dataset
 Table of Contents:-
 1. Project Objectives.
-2. 2Data Exploration and Analysis
+2. Data Exploration and Analysis
    Question 1: Average Age of Individuals with Mental Illness.
    Question 2: Demographic Factors and History of Mental Illness.
    Question 3: Income Groups by History of Mental Illness.
